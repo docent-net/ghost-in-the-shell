@@ -14,8 +14,8 @@ keeping privacy as the very important and making sure that installation of
 components is very easy (Ansible & Docker ftw) and usability is very good.
 
 So this is it - there is still no clear view how we're gonna develop this
-project; we need couple of meetings to settle things down (AA & Infosec meetups
-@Krk). For now you can star this project and follow #gitsterm tag on Twitter
+project; we need couple of meetings to settle things down ([AA](http://www.meetup.com/AnonimowiAdmini/) & Infosec meetups
+@Krk). For now you can star this project and follow *#gitsterm* tag on Twitter
 (as GhostInTheShellTerm lol ;) ).
 
 ## Notes & ideas ##
